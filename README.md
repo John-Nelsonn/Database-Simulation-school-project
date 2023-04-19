@@ -14,6 +14,6 @@ This repository contains source code for a database simulation using c++. The da
 
 # Data Visualization
 The relationship between customers and products in each shop was expressed using a binary matrix.
-The binary matrix was also displayed in a text file in Comma-Separated Values(CSV) format.
+The binary matrix was also displayed in a text file usinf Comma-Separated Values(CSV) format.
 
 
