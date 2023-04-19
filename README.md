@@ -8,7 +8,7 @@ This repository contains source code for a database simulation using c++. The da
 
 # Queries
 1) How much each customer spends in each shop.
-2) How much each custome spends in all three shops.
+2) How much each customer spends in all three shops.
 3) Sales per item in each shop.
 4) Sales per item in all three shops.
 
