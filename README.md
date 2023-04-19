@@ -1,4 +1,4 @@
-# Database-Simulation
+# Summary
 This repository contains source code for a database simulation using c++. The database is partially normalized and uses random values to simulate user input.
 
 # Tables
